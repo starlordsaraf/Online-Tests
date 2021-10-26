@@ -13,7 +13,7 @@ def sortBoxes(boxList):
 
 
 
-print("ANSWER",sortBoxes(["ykc 82 01","eo first qpx","09z cat hamster","06f 12 25 6","az0 first qpx", "236 cat dpg rabbit snake"]))
+print(sortBoxes(["ykc 82 01","eo first qpx","09z cat hamster","06f 12 25 6","az0 first qpx", "236 cat dpg rabbit snake"]))
 
 
 
